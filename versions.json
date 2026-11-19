@@ -40,7 +40,8 @@
       "version": "0.11.1"
     },
     "vera-qbox-minigames": {
-      "version": "0.3.2"
+      "version": "0.4.0",
+      "notes": "Modo servidor verificable, configuración completa por juego y Michroma."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
