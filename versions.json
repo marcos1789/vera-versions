@@ -44,8 +44,8 @@
       "version": "0.3.1"
     },
     "vera-qbox-radialmenu": {
-      "version": "0.2.0",
-      "notes": "Salir del maletero, puertas desde fuera, extras, volcar coche, botón de emergencia y compatibilidad con qbx_radialmenu."
+      "version": "0.2.1",
+      "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-target": {
       "version": "0.6.5",
