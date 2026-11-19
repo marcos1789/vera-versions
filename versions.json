@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updated": "2026-11-19",
+  "download": "https://keymaster.fivem.net",
+  "changelog": "https://github.com/marcos1789/vera-versions#novedades",
+  "resources": {
+    "vera-qbox-admin":       { "version": "0.7.1" },
+    "vera-qbox-banking":     { "version": "0.6.0" },
+    "vera-qbox-chat":        { "version": "1.5.0" },
+    "vera-qbox-customs":     { "version": "0.3.0" },
+    "vera-qbox-fuel":        { "version": "0.2.3" },
+    "vera-qbox-garages":     { "version": "0.5.14" },
+    "vera-qbox-hud":         { "version": "4.1.1" },
+    "vera-qbox-idcard":      { "version": "0.9.2" },
+    "vera-qbox-inventory":   { "version": "1.7.11" },
+    "vera-qbox-keys":        { "version": "0.9.1" },
+    "vera-qbox-mechanic":    { "version": "0.11.0" },
+    "vera-qbox-minigames":   { "version": "0.3.1" },
+    "vera-qbox-props":       { "version": "0.3.0" },
+    "vera-qbox-radialmenu":  { "version": "0.1.9" },
+    "vera-qbox-target":      { "version": "0.6.3" },
+    "vera-qbox-ui":          { "version": "1.2.1" }
+  }
+}
