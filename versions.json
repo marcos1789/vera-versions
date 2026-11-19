@@ -11,7 +11,8 @@
       "version": "0.6.1"
     },
     "vera-qbox-chat": {
-      "version": "1.5.1"
+      "version": "1.5.2",
+      "notes": "Textos editables en config/texts.lua y licencia VERA."
     },
     "vera-qbox-customs": {
       "version": "0.3.0"
