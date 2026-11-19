@@ -34,6 +34,10 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 2. Cambia `version` (y `notes`, y `security` si procede) del recurso en `versions.json`.
 3. Actualiza `updated` y la sección *Novedades* de este archivo.
 
+## Banner
+
+`banner/vera_banner.lua` es el módulo común que lleva cada recurso VERA (copia idéntica en todos). `banner/test_banner.py` lo prueba simulando varios recursos.
+
 ## Novedades
 
-- **2026-11-19** · Primera publicación del archivo de versiones.
+- **2026-11-19** · Primera publicación: banner de consola común en todos los recursos VERA.
