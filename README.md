@@ -40,4 +40,5 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-19** · vera-qbox-radialmenu 0.2.0 y vera-qbox-target 0.6.5: salir del maletero desde el menú radial, puertas desde fuera, extras, volcar coche y botón de emergencia.
 - **2026-11-19** · Primera publicación: banner de consola común en todos los recursos VERA.
