@@ -34,7 +34,9 @@
       "version": "1.7.12"
     },
     "vera-qbox-keys": {
-      "version": "0.9.2"
+      "version": "0.9.3",
+      "security": true,
+      "notes": "La ganzúa se verifica en el servidor con vera-qbox-minigames 0.4.0."
     },
     "vera-qbox-mechanic": {
       "version": "0.11.1"
