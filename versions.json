@@ -42,8 +42,8 @@
       "version": "0.11.1"
     },
     "vera-qbox-minigames": {
-      "version": "0.4.2",
-      "notes": "Licencia VERA definitiva y banner de consola al arrancar."
+      "version": "0.4.3",
+      "notes": "ENTRADA y SALIDA caben en su casilla; los símbolos ° y % se ven bien."
     },
     "vera-qbox-props": {
       "version": "0.3.1"

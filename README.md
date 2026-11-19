@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-19** · vera-qbox-minigames 0.4.3: «ENTRADA» y «SALIDA» caben en su casilla; los símbolos ° y % se ven bien.
 - **2026-11-19** · vera-qbox-minigames 0.4.2: licencia VERA definitiva y banner de consola al arrancar.
 - **2026-11-19** · vera-qbox-chat 1.5.3, vera-qbox-hud 4.1.4 y vera-qbox-ui 1.2.4: el banner de consola vuelve a salir al arrancar el servidor.
 - **2026-11-19** · vera-qbox-radialmenu 0.2.0 y vera-qbox-target 0.6.5: salir del maletero desde el menú radial, puertas desde fuera, extras, volcar coche y botón de emergencia.
