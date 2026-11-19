@@ -42,8 +42,8 @@
       "version": "0.11.1"
     },
     "vera-qbox-minigames": {
-      "version": "0.4.3",
-      "notes": "ENTRADA y SALIDA caben en su casilla; los símbolos ° y % se ven bien."
+      "version": "0.5.0",
+      "notes": "8 minijuegos nuevos (termita, PIN, cuadro eléctrico, laboratorio, RCP, pesca, par de apriete y láseres) con modo servidor."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
