@@ -54,7 +54,8 @@
       "notes": "Salida del maletero y volcado del coche desde el menú radial."
     },
     "vera-qbox-ui": {
-      "version": "1.2.2"
+      "version": "1.2.3",
+      "notes": "Licencia definitiva y configuración comentada en español."
     }
   }
 }
