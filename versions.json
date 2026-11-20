@@ -47,6 +47,10 @@
       "version": "0.5.1",
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
+    "vera-qbox-phone": {
+      "version": "0.1.0",
+      "notes": "Primera versión: móvil estilo iOS con viñetas, llamadas, fotos, PIN, robo y restaurar, dos móviles, cabinas, emergencias y apps de otros recursos."
+    },
     "vera-qbox-props": {
       "version": "0.3.1"
     },

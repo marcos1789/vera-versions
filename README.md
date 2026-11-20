@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-20** · vera-qbox-phone 0.1.0: primera versión del móvil VERA. Estilo iOS con viñetas para llamadas y avisos, llamadas con voz, mensajes con fotos, cámara y galería, PIN, móvil como objeto (robo y restaurar), dos móviles a la vez, cabinas con número fijo, emergencias con ubicación y API para apps de otros recursos.
 - **2026-11-20** · vera-qbox-banking 0.8.0 (seguridad): revisión completa. Corrige fallos de seguridad y de dinero, funciona solo con `qbx_core` y `oxmysql`, empeño de vehículo como garantía, banca móvil preparada, facturas, impuestos, órdenes policiales, atracos, cheques y extracto impreso, hipotecas, bolsa simulada, inglés y sucursales configurables para MLO.
 - **2026-11-20** · vera-qbox-inventory 1.7.15: tarjetas bancarias nuevas para los cinco bancos de GTA V.
 - **2026-11-20** · vera-qbox-chat 1.5.4, vera-qbox-hud 4.1.5, vera-qbox-ui 1.2.5, vera-qbox-minigames 0.5.1 y vera-qbox-keys 0.10.1: el banner de consola vuelve a salir aunque el servidor tenga la carpeta original de `qbx_radialmenu` u otro recurso con `provide`.
