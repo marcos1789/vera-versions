@@ -53,8 +53,8 @@
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-target": {
-      "version": "0.7.0",
-      "notes": "Nueva interfaz Lens predeterminada (marco sobre el objetivo y acciones en arco), iconos SVG propios y config editable."
+      "version": "0.8.0",
+      "notes": "Independiente: solo necesita ox_lib y qbx_core; integraciones opcionales en el config, textos editables y opción para quitar el cuadro de Lens."
     },
     "vera-qbox-ui": {
       "version": "1.2.4",

@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-20** · vera-qbox-target 0.8.0: solo necesita `ox_lib` y `qbx_core`; los demás recursos son integraciones opcionales en el config. Textos editables en `shared/texts.lua` y opción `LensFrame` para quitar el cuadro de Lens.
 - **2026-11-20** · vera-qbox-target 0.7.0: nueva interfaz Lens predeterminada, con marco sobre el objetivo y acciones en arco a su derecha; la clásica sigue disponible. Iconos SVG propios y `config.lua` editable.
 - **2026-11-19** · vera-qbox-minigames 0.4.3: «ENTRADA» y «SALIDA» caben en su casilla; los símbolos ° y % se ven bien.
 - **2026-11-19** · vera-qbox-minigames 0.4.2: licencia VERA definitiva y banner de consola al arrancar.
