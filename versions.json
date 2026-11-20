@@ -11,8 +11,8 @@
       "version": "0.6.1"
     },
     "vera-qbox-chat": {
-      "version": "1.5.3",
-      "notes": "El banner de consola vuelve a salir al arrancar el servidor."
+      "version": "1.5.4",
+      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-customs": {
       "version": "0.3.0"
@@ -24,8 +24,8 @@
       "version": "0.5.15"
     },
     "vera-qbox-hud": {
-      "version": "4.1.4",
-      "notes": "El banner de consola vuelve a salir al arrancar el servidor."
+      "version": "4.1.5",
+      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-idcard": {
       "version": "0.9.3"
@@ -34,16 +34,15 @@
       "version": "1.7.12"
     },
     "vera-qbox-keys": {
-      "version": "0.9.3",
-      "security": true,
-      "notes": "La ganzúa se verifica en el servidor con vera-qbox-minigames 0.4.0."
+      "version": "0.10.1",
+      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-mechanic": {
       "version": "0.11.1"
     },
     "vera-qbox-minigames": {
-      "version": "0.5.0",
-      "notes": "8 minijuegos nuevos (termita, PIN, cuadro eléctrico, laboratorio, RCP, pesca, par de apriete y láseres) con modo servidor."
+      "version": "0.5.1",
+      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
@@ -57,8 +56,8 @@
       "notes": "Independiente: solo necesita ox_lib y qbx_core; integraciones opcionales en el config, textos editables y opción para quitar el cuadro de Lens."
     },
     "vera-qbox-ui": {
-      "version": "1.2.4",
-      "notes": "El banner de consola vuelve a salir al arrancar el servidor."
+      "version": "1.2.5",
+      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     }
   }
 }
