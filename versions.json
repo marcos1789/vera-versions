@@ -8,7 +8,9 @@
       "version": "0.7.2"
     },
     "vera-qbox-banking": {
-      "version": "0.6.1"
+      "version": "0.8.0",
+      "security": true,
+      "notes": "Revisión completa: correcciones de seguridad y dinero, independiente de otros recursos, empeño de vehículo, banca móvil preparada, facturas, impuestos, cheques, hipotecas, bolsa e inglés."
     },
     "vera-qbox-chat": {
       "version": "1.5.4",
@@ -31,7 +33,8 @@
       "version": "0.9.3"
     },
     "vera-qbox-inventory": {
-      "version": "1.7.12"
+      "version": "1.7.15",
+      "notes": "Tarjetas bancarias nuevas para Fleeca, Pacific Standard, Blaine County Savings, Maze Bank y Lombank."
     },
     "vera-qbox-keys": {
       "version": "0.10.1",

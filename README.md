@@ -40,6 +40,8 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-20** · vera-qbox-banking 0.8.0 (seguridad): revisión completa. Corrige fallos de seguridad y de dinero, funciona solo con `qbx_core` y `oxmysql`, empeño de vehículo como garantía, banca móvil preparada, facturas, impuestos, órdenes policiales, atracos, cheques y extracto impreso, hipotecas, bolsa simulada, inglés y sucursales configurables para MLO.
+- **2026-11-20** · vera-qbox-inventory 1.7.15: tarjetas bancarias nuevas para los cinco bancos de GTA V.
 - **2026-11-20** · vera-qbox-chat 1.5.4, vera-qbox-hud 4.1.5, vera-qbox-ui 1.2.5, vera-qbox-minigames 0.5.1 y vera-qbox-keys 0.10.1: el banner de consola vuelve a salir aunque el servidor tenga la carpeta original de `qbx_radialmenu` u otro recurso con `provide`.
 - **2026-11-20** · vera-qbox-target 0.8.0: solo necesita `ox_lib` y `qbx_core`; los demás recursos son integraciones opcionales en el config. Textos editables en `shared/texts.lua` y opción `LensFrame` para quitar el cuadro de Lens.
 - **2026-11-20** · vera-qbox-target 0.7.0: nueva interfaz Lens predeterminada, con marco sobre el objetivo y acciones en arco a su derecha; la clásica sigue disponible. Iconos SVG propios y `config.lua` editable.
