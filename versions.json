@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "download": "https://keymaster.fivem.net",
   "changelog": "https://github.com/marcos1789/vera-versions#novedades",
   "resources": {
@@ -53,8 +53,8 @@
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-target": {
-      "version": "0.6.5",
-      "notes": "Salida del maletero y volcado del coche desde el menú radial."
+      "version": "0.7.0",
+      "notes": "Nueva interfaz Lens predeterminada (marco sobre el objetivo y acciones en arco), iconos SVG propios y config editable."
     },
     "vera-qbox-ui": {
       "version": "1.2.4",
