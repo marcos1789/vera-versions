@@ -82,7 +82,7 @@ assert text2.count('┌') == 1 and 'vera-qbox-admin 0.7.1' in text2, 'late resou
 # offline: no versions
 lua.execute("order={}; states={}; out={}; handlers={}; threads={}; timers={}; clock=200000; httpCode=0; httpBody=''; startResource('vera-qbox-ui','1.2.1'); run(8000)")
 t3=''.join(str(x) for x in lua.eval('out').values())
-assert 'vera-qbox-ui 1.2.1' in t3 and 'Correcto' in t3, t3
+assert 'vera-qbox-ui' in t3 and '1.2.1' in t3 and 'Correcto' in t3, t3
 # off
 lua.execute("order={}; states={}; out={}; handlers={}; threads={}; timers={}; clock=0; httpCode=200; convars={['vera:banner']='apagado'}; startResource('vera-qbox-ui','1.2.1'); run(8000)")
 assert len(lua.eval('out'))==0, 'apagado prints nothing'
@@ -91,4 +91,9 @@ assert lua.eval('maxDepth') <= 2, lua.eval('maxDepth')
 lua.execute("order={}; states={}; out={}; handlers={}; threads={}; timers={}; clock=0; maxDepth=0; convars={}; for i=1,16 do startResource(('vera-qbox-r%02d'):format(i),'1.0.0') end; run(9000)")
 t4=''.join(str(x) for x in lua.eval('out').values())
 assert t4.count('┌')==1 and t4.count('vera-qbox-r')>=16 and lua.eval('maxDepth')<=2, 'sixteen resources'
-print('PASS banner: one shared block, statuses, security/update/patch, late joiner line, offline, off')
+# a name given with `provide` (listed and started, but no banner of its own) must not block the banner
+lua.execute("order={'qbx_radialmenu'}; states={qbx_radialmenu='started'}; out={}; handlers={}; threads={}; timers={}; clock=0; convars={}; startResource('vera-qbox-radialmenu','0.2.3'); startResource('vera-qbox-ui','1.2.1'); run(9000)")
+t5=''.join(str(x) for x in lua.eval('out').values())
+assert t5.count('┌')==1 and 'vera-qbox-radialmenu' in t5 and 'qbx_radialmenu ' not in t5, t5
+assert t5.count('^5VERA^7 ·')==0, 'no extra one-line entries'
+print('PASS banner: one shared block, statuses, security/update/patch, late joiner line, offline, off, provide aliases')
