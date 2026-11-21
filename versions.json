@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "download": "https://keymaster.fivem.net",
   "changelog": "https://github.com/marcos1789/vera-versions#novedades",
   "resources": {
@@ -57,6 +57,10 @@
     "vera-qbox-radialmenu": {
       "version": "0.2.1",
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
+    },
+    "vera-qbox-tablet": {
+      "version": "0.1.0",
+      "notes": "Primera versión: tablet estilo iPad sincronizada con VERA Phone (Mensajes, Contactos, Galería y Notas), PIN como Face ID, carcasas de colores y apps de terceros."
     },
     "vera-qbox-target": {
       "version": "0.8.0",
