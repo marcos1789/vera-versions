@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.5.1",
-      "notes": "Usar el móvil en el inventario lo abre. Incluye la 0.5.0: PIN como Face ID, alarmas que siempre suenan en formato de 24 horas y sincronización con VERA Tablet."
+      "version": "0.5.2",
+      "notes": "El clic de la rueda del ratón abre el móvil. Incluye la 0.5.0: PIN como Face ID, alarmas en 24 horas que siempre suenan y sincronización con VERA Tablet."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
