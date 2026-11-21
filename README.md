@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-21** · vera-qbox-tablet 0.1.2: con el ratón fuera se vuelve translúcida para ver el juego detrás, y la cámara es propia de la tablet (el personaje la sostiene, se apunta con el ratón, zoom con la rueda y selfie) en vez de usar el móvil de GTA.
 - **2026-11-21** · vera-qbox-tablet 0.1.1: la tecla por defecto pasa a ser `º` (F3 es el noclip de VERA Admin) y usar la tablet en el inventario la abre.
 - **2026-11-21** · vera-qbox-phone 0.5.1: usar el móvil en el inventario (clic o *Usar*) abre ese móvil.
 - **2026-11-21** · vera-qbox-phone 0.5.0: PIN como Face ID (no se pide mientras el móvil no salga de tu inventario), las alarmas suenan siempre aunque el móvil esté cerrado o con PIN y la hora va en formato de 24 horas, y dispositivos vinculados para que VERA Tablet se sincronice con tu número.

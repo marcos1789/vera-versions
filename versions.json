@@ -59,8 +59,8 @@
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-tablet": {
-      "version": "0.1.1",
-      "notes": "Tecla º (F3 es el noclip de VERA Admin) y usar la tablet en el inventario la abre."
+      "version": "0.1.2",
+      "notes": "Translúcida con el ratón fuera para ver el juego detrás y cámara propia con la tablet en las manos (ya no usa el móvil)."
     },
     "vera-qbox-target": {
       "version": "0.8.0",
