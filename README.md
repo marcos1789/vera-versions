@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-21** · vera-qbox-phone 0.5.5 y vera-qbox-tablet 0.1.5: contactos, notas, fotos, foto de perfil y bloqueados se sincronizan al momento entre móvil y tablet; la tablet comparte cerca y tiene cobertura propia (con las antenas del móvil); instalación documentada paso a paso con problemas frecuentes. Hay que actualizar las entradas de `items.lua` (la `tablet` de Qbox se apilaba).
 - **2026-11-21** · vera-qbox-phone 0.5.4 y vera-qbox-tablet 0.1.4: usar el aparato en el inventario lo abre siempre (ox_inventory llama a un export de cliente; hay que actualizar sus entradas en `items.lua`). El clic de la rueda ya no abre el móvil fuera del inventario.
 - **2026-11-21** · vera-qbox-tablet 0.1.3 y vera-qbox-phone 0.5.3: con VERA Inventory, soltar, guardar o dar el aparato hace que se pida el PIN al recogerlo (se escuchan los hooks de VERA Inventory, que no pasa por los de ox).
 - **2026-11-21** · vera-qbox-phone 0.5.2: el clic de la rueda del ratón abre o cierra el móvil, además de la tecla.

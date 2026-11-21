@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.5.4",
-      "notes": "Usar el móvil en el inventario lo abre siempre (export de cliente para ox_inventory; actualiza la entrada de phone en items.lua). Incluye la 0.5.0: Face ID, alarmas en 24 horas y sincronización con VERA Tablet."
+      "version": "0.5.5",
+      "notes": "Sincronización completa con VERA Tablet (contactos, notas, fotos al momento), instalación documentada y corrección en las cabinas. Actualiza las entradas de install/ox_inventory/items.lua."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
@@ -59,8 +59,8 @@
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-tablet": {
-      "version": "0.1.4",
-      "notes": "Usar la tablet en el inventario la abre siempre (export de cliente para ox_inventory; actualiza las entradas en items.lua)."
+      "version": "0.1.5",
+      "notes": "Sincronización completa con el móvil, compartir cerca, cobertura propia con las antenas del móvil e instalación documentada. Sustituye la entrada de tablet de ox_inventory por la de install/."
     },
     "vera-qbox-target": {
       "version": "0.8.0",
