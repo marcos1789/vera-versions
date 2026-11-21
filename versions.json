@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.4.0",
-      "notes": "SOS de emergencia en la pantalla de bloqueo y con /sos, compartir cerca fotos, notas y contactos, llamada a tres, desvío de llamadas y documentación en inglés."
+      "version": "0.5.0",
+      "notes": "PIN como Face ID, las alarmas suenan siempre y en formato de 24 horas, y sincronización con VERA Tablet."
     },
     "vera-qbox-props": {
       "version": "0.3.1"

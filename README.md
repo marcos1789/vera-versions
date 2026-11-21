@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-21** · vera-qbox-phone 0.5.0: PIN como Face ID (no se pide mientras el móvil no salga de tu inventario), las alarmas suenan siempre aunque el móvil esté cerrado o con PIN y la hora va en formato de 24 horas, y dispositivos vinculados para que VERA Tablet se sincronice con tu número.
 - **2026-11-21** · vera-qbox-tablet 0.1.0: primera versión de la tablet VERA. Estilo iPad en horizontal y centrada, sin número propio: se vincula con tu número de VERA Phone y sincroniza Mensajes, Contactos, Galería y Notas. Apps en dos columnas, centro de notificaciones y de control, la tablet como objeto (robo, PIN como Face ID, restablecer, carcasas de colores), alarmas en 24 horas y API de apps de terceros igual que la del móvil.
 - **2026-11-21** · vera-qbox-phone 0.4.0: SOS de emergencia desde la pantalla de bloqueo (aunque tenga PIN) y con `/sos`, compartir cerca fotos, notas y contactos (como AirDrop), llamada a tres, desvío de llamadas y README y documentación en inglés.
 - **2026-11-21** · vera-qbox-phone 0.3.0: cobertura por antenas con zonas sin señal y modo avión (los mensajes llegan al recuperar la señal), responder a un mensaje con cita, reacciones, «escribiendo…» y «Leído por…» en grupos, fijar, silenciar y archivar conversaciones y carcasas de colores según el objeto.
