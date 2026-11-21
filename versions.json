@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.5.5",
-      "notes": "Sincronización completa con VERA Tablet (contactos, notas, fotos al momento), instalación documentada y corrección en las cabinas. Actualiza las entradas de install/ox_inventory/items.lua."
+      "version": "0.5.6",
+      "notes": "Cabinas: el personaje se pone el móvil en la oreja (se quita el auricular propio y /movilauricular)."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
