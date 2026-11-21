@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-21** · vera-qbox-tablet 0.1.3 y vera-qbox-phone 0.5.3: con VERA Inventory, soltar, guardar o dar el aparato hace que se pida el PIN al recogerlo (se escuchan los hooks de VERA Inventory, que no pasa por los de ox).
 - **2026-11-21** · vera-qbox-phone 0.5.2: el clic de la rueda del ratón abre o cierra el móvil, además de la tecla.
 - **2026-11-21** · vera-qbox-tablet 0.1.2: con el ratón fuera se vuelve translúcida para ver el juego detrás, y la cámara es propia de la tablet (el personaje la sostiene, se apunta con el ratón, zoom con la rueda y selfie) en vez de usar el móvil de GTA.
 - **2026-11-21** · vera-qbox-tablet 0.1.1: la tecla por defecto pasa a ser `º` (F3 es el noclip de VERA Admin) y usar la tablet en el inventario la abre.
