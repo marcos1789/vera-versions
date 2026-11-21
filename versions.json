@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.3.0",
-      "notes": "Cobertura por antenas y modo avión, responder con cita, reacciones, escribiendo y leído en grupos, fijar, silenciar y archivar conversaciones y carcasas de colores."
+      "version": "0.4.0",
+      "notes": "SOS de emergencia en la pantalla de bloqueo y con /sos, compartir cerca fotos, notas y contactos, llamada a tres, desvío de llamadas y documentación en inglés."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
