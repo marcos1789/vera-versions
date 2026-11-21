@@ -48,8 +48,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.2.0",
-      "notes": "Grupos, llamada en espera, buzón y notas de voz, no molestar, bloquear números, reloj, linterna, tonos de llamada, el móvil suena alrededor, auricular en las cabinas e inglés."
+      "version": "0.3.0",
+      "notes": "Cobertura por antenas y modo avión, responder con cita, reacciones, escribiendo y leído en grupos, fijar, silenciar y archivar conversaciones y carcasas de colores."
     },
     "vera-qbox-props": {
       "version": "0.3.1"

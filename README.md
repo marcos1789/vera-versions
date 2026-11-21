@@ -40,6 +40,7 @@ Si la versión instalada es menor que `version`, el banner muestra **Actualizaci
 
 ## Novedades
 
+- **2026-11-21** · vera-qbox-phone 0.3.0: cobertura por antenas con zonas sin señal y modo avión (los mensajes llegan al recuperar la señal), responder a un mensaje con cita, reacciones, «escribiendo…» y «Leído por…» en grupos, fijar, silenciar y archivar conversaciones y carcasas de colores según el objeto.
 - **2026-11-21** · vera-qbox-phone 0.2.0: grupos de mensajes, borrar y buscar mensajes, compartir contactos, llamada en espera, buzón de voz y mensajes de voz, tonos de llamada, el móvil suena para los de alrededor, no molestar y bloquear números, app Reloj, linterna, bloqueo muerto o esposado, móvil mojado opcional, auricular propio en las cabinas e inglés.
 - **2026-11-20** · vera-qbox-phone 0.1.0: primera versión del móvil VERA. Estilo iOS con viñetas para llamadas y avisos, llamadas con voz, mensajes con fotos, cámara y galería, PIN, móvil como objeto (robo y restaurar), dos móviles a la vez, cabinas con número fijo, emergencias con ubicación y API para apps de otros recursos.
 - **2026-11-20** · vera-qbox-banking 0.8.0 (seguridad): revisión completa. Corrige fallos de seguridad y de dinero, funciona solo con `qbx_core` y `oxmysql`, empeño de vehículo como garantía, banca móvil preparada, facturas, impuestos, órdenes policiales, atracos, cheques y extracto impreso, hipotecas, bolsa simulada, inglés y sucursales configurables para MLO.
