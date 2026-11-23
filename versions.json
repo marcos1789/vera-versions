@@ -20,8 +20,8 @@
       "version": "0.3.0"
     },
     "vera-qbox-fuel": {
-      "version": "1.0.0",
-      "notes": "Rehecho: solo necesita qbx_core, pago desde el móvil con VERA Phone y VERA Banking (se quita si te alejas), surtidores detectados, cobro con devolución y boquilla ajustable con /fuelnozzle."
+      "version": "1.0.1",
+      "notes": "Al comprar o rellenar una garrafa se ven la garrafa en el suelo y la boquilla en la mano."
     },
     "vera-qbox-garages": {
       "version": "0.5.15"
