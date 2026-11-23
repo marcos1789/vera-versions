@@ -17,8 +17,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-customs": {
-      "version": "0.5.1",
-      "notes": "El diseño 2 (HUD de taller) pasa a ser el de por defecto; Design = 3 vuelve al clásico."
+      "version": "0.5.2",
+      "notes": "La parte de abajo del panel sube para quedar por encima de los iconos del HUD (diseño 2 por defecto)."
     },
     "vera-qbox-fuel": {
       "version": "1.0.1",
@@ -43,8 +43,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-mechanic": {
-      "version": "0.12.1",
-      "notes": "El diseño 2 (HUD de taller) pasa a ser el de por defecto, igual que en VERA Customs; Design = 3 vuelve al clásico."
+      "version": "0.12.2",
+      "notes": "La parte de abajo del panel sube para quedar por encima de los iconos del HUD (diseño 2 por defecto)."
     },
     "vera-qbox-minigames": {
       "version": "0.5.1",
