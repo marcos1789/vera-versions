@@ -17,8 +17,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-customs": {
-      "version": "0.4.0",
-      "notes": "Independiente: solo necesita qbx_core y oxmysql; código reescrito y legible, textos editables en es/en, config comentada y arreglos en botes de pintura, trabajos pendientes y sesiones."
+      "version": "0.5.0",
+      "notes": "Tres diseños del panel para elegir en Config.Design: redondeado, HUD de taller o el clásico de siempre (por defecto)."
     },
     "vera-qbox-fuel": {
       "version": "1.0.1",
