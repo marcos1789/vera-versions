@@ -68,8 +68,8 @@
       "notes": "Independiente: solo necesita ox_lib y qbx_core; integraciones opcionales en el config, textos editables y opción para quitar el cuadro de Lens."
     },
     "vera-qbox-ui": {
-      "version": "1.2.5",
-      "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
+      "version": "1.2.6",
+      "notes": "Los objetos en la mano de la barra de progreso salen con la posición y el giro pedidos (antes los valores sin decimales se leían mal)."
     }
   }
 }
