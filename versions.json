@@ -20,7 +20,8 @@
       "version": "0.3.0"
     },
     "vera-qbox-fuel": {
-      "version": "0.2.4"
+      "version": "1.0.0",
+      "notes": "Rehecho: solo necesita qbx_core, pago desde el móvil con VERA Phone y VERA Banking (se quita si te alejas), surtidores detectados, cobro con devolución y boquilla ajustable con /fuelnozzle."
     },
     "vera-qbox-garages": {
       "version": "0.5.15"
@@ -48,8 +49,8 @@
       "notes": "El banner de consola vuelve a salir aunque esté la carpeta original de qbx_radialmenu u otro recurso con provide."
     },
     "vera-qbox-phone": {
-      "version": "0.5.7",
-      "notes": "Ubicación recibida: la viñeta permite marcarla en el mapa con la tecla Y sin abrir el móvil, o con el botón Ver en el mapa con el móvil abierto."
+      "version": "0.5.8",
+      "notes": "Peticiones con Aceptar y Cancelar para otros recursos (exports Ask, CancelAsk y CanAsk): VERA Fuel las usa para pagar la gasolina desde el móvil."
     },
     "vera-qbox-props": {
       "version": "0.3.1"
