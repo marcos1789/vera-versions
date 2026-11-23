@@ -60,8 +60,8 @@
       "notes": "Código propio de VERA, salir del maletero, puertas desde fuera, extras, desvolcar, botón de emergencia y compatibilidad con qbx_radialmenu."
     },
     "vera-qbox-tablet": {
-      "version": "0.1.6",
-      "notes": "Ubicación recibida: la viñeta permite marcarla en el mapa con la tecla Y sin abrir la tablet, o con el botón Ver en el mapa con la tablet abierta."
+      "version": "0.1.7",
+      "notes": "Revisión completa: con PIN no llega nada privado, intentos de PIN por tablet, apps de terceros limitadas y muchos arreglos (cámara, Escape, modo avión, ox_inventory reiniciado)."
     },
     "vera-qbox-target": {
       "version": "0.8.0",
