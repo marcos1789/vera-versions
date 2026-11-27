@@ -35,8 +35,9 @@
       "version": "0.9.3"
     },
     "vera-qbox-inventory": {
-      "version": "1.7.15",
-      "notes": "Tarjetas bancarias nuevas para Fleeca, Pacific Standard, Blaine County Savings, Maze Bank y Lombank."
+      "version": "1.7.16",
+      "security": true,
+      "notes": "Corrige fallos críticos: almacenamiento seguro por target, capacidad de bolsas y cartera, fabricación controlada por el servidor, idioma inglés y bloqueo al arrastrar rápido."
     },
     "vera-qbox-keys": {
       "version": "0.10.1",
