@@ -35,9 +35,8 @@
       "version": "0.9.3"
     },
     "vera-qbox-inventory": {
-      "version": "1.7.16",
-      "security": true,
-      "notes": "Corrige fallos críticos: almacenamiento seguro por target, capacidad de bolsas y cartera, fabricación controlada por el servidor, idioma inglés y bloqueo al arrastrar rápido."
+      "version": "1.8.0",
+      "notes": "Nuevo diseño B opcional: cada objeto ocupa los huecos que mide (rifle 3x1, motor 2x2), con giro con R. Se elige en shared/design.lua; el diseño A no cambia."
     },
     "vera-qbox-keys": {
       "version": "0.10.1",
